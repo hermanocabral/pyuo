@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gtozzi/pyuo.svg?branch=master)](https://travis-ci.org/gtozzi/pyuo)
+[![Build Status](https://travis-ci.org/hermanocabral/pyuo.svg?branch=master)](https://travis-ci.org/hermanocabral/pyuo)
 
 # pyuo
 A text-only UO client written in Python
